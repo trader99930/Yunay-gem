@@ -1,0 +1,6 @@
+{
+  "name": "AntiGem",
+  "description": "Agentic AI Coding Workspace, Android IDE & Termux Linux Terminal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
